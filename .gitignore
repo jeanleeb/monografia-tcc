@@ -1,8 +1,8 @@
-main.aux
-main.fdb_latexmk
-main.fls
-main.log
-main.lof
-main.lot
-main.synctex.gz
-main.toc
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.lof
+*.lot
+*.synctex.gz
+*.toc
